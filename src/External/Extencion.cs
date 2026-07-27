@@ -1,6 +1,6 @@
 ﻿namespace External
 {
-    public class Class1
+    public class Extencion
     {
 
     }
