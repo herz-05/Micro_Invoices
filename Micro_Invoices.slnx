@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Folder Name="/A.Domain/" />
+  <Folder Name="/B.Core/" />
+  <Folder Name="/C.Persistence/" />
+  <Folder Name="/D.External/" />
+  <Folder Name="/E.API/" />
+</Solution>
